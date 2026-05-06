@@ -1,0 +1,17 @@
+# archivos de build
+cmake-build-debug/
+cmake-build-release/
+build/
+*.o
+*.obj
+*.exe
+practica2
+practica2.exe
+
+# IDE
+.idea/
+.vscode/
+
+# sistema
+.DS_Store
+Thumbs.db
