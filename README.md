@@ -1,6 +1,6 @@
 # Practica II — DialSort vs RadixSort vs std::sort
 
-**Curso:** ST0245 - SI001 — Estructuras de Datos y Algoritmos
+**Curso:** Estructuras de Datos y Algoritmos
 **Universidad:** EAFIT — Escuela de Ciencias Aplicadas e Ingenieria
 **Profesor:** Alexander Narvaez Berrio
 **Integrantes:** Mateo Duque Restrepo, Jeronimo Gutierrez Gutierrez
