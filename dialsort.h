@@ -3,7 +3,7 @@
 // --------------------------------------------------------------------
 //  DialSort: ordenamiento por distribucion en cubetas.
 //
-//  La idea es chimba: como sabemos que las llaves estan en [0, U),
+//  La idea es: como sabemos que las llaves estan en [0, U),
 //  reservamos U "cubetas" (listas vacias). Recorremos la entrada y a
 //  cada numero lo metemos en la cubeta que le corresponde por su valor.
 //  Al final, leemos las cubetas en orden de 0 a U-1 y vamos escribiendo
